@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: poppins;
+    src: url('../fonts/Poppins-ExtraBold.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: outfit;
+    src: url('../fonts/Outfit-Thin.ttf') format('truetype');
+    font-display: swap;
+}
