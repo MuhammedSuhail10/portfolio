@@ -36,7 +36,7 @@ const currentYear = now.getFullYear();
                     </g>
                 </svg>
             </a>
-            <a href="https://wa.me/919048089432" class="hover:text-[#34A0A4]">
+            <a href="https://wa.me/919048089432" target="_blank" rel="noopener noreferrer" class="hover:text-[#34A0A4]">
                 <svg fill="currentcolor" width="3em" height="3em" viewBox="0 0 32 32" version="1.1"
                     xmlns="http://www.w3.org/2000/svg">
                     <title>whatsapp</title>

@@ -1,6 +1,6 @@
 <template>
     <div class="text-[#1e1e1e] bg-[#F0F8FF]">
-        <div class=" px-[13em]">
+        <div class=" lg:px-[13em] md:px-[2em] px-[1em] ">
             <div class='text-center font-[Poppins] md:text-[5em] text-[3em] pt-[1em]'>About</div>
             <div class="text-center italic mt-[-1.3em] lg:text-[1.2em] text-[1em] lg:px-[] px-[1em] ">"Caffeine, chaos,
                 and
@@ -13,14 +13,14 @@
             </div>
         </div>
         <div
-            class=' bg-[#0f0f0f] text-[#F0F8FF] px-[7em] py-[2em] md:rounded-t-[2em] rounded-t-[2em] lg:text-[1.9em] text-[1.3em]'>
+            class=' bg-[#0f0f0f] text-[#F0F8FF] lg:px-[7em] md:px-[2em] px-[1em] py-[2em] rounded-t-[2em] lg:text-[1.9em] text-[1.3em]'>
             <p>Right now, I'm on a mission to conquer the backend, diving deep into microservice architecture to craft
                 super-scalable and modular systems.
                 I'm a lifelong learner, always staying ahead of the curve with the latest trends and best practices.
                 I thrive in collaborative environments and independently, tackling complex challenges with a
                 problem-solving mindset.
             </p>
-            <div class="flex gap-[1em] mt-[1em]">
+            <div class="flex flex-wrap gap-[1em] mt-[1em]">
                 <a href="/files/MuhammedSuhail.pdf" target="_blank" rel="noopener noreferrer">
                     <LazyHelpersBtn text="Resume">
                         <template #icon>

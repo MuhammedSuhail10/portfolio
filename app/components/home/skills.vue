@@ -15,7 +15,7 @@ const skillsList = SkillMapping()
 </script>
 
 <template>
-    <section class="md:mt-[5em] mb-[2em] md:mb-[5em] overflow-hidden">
+    <section class="md:mt-[5em] mt-[2em] mb-[2em] md:mb-[5em] overflow-hidden">
         <div class="flex overflow-hidden">
             <div class="flex scroll-line">
                 <div v-for="item in skillsList" :key="item.key" class="px-[1em]">

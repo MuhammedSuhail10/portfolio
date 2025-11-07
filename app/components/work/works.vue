@@ -1,5 +1,5 @@
 <template>
-    <div class="px-[13em] my-[5em]">
+    <div class="lg:px-[13em] md:px-[2em] px-[1em] lg:my-[5em] my-[2em]">
         <LazyHelpersWorkInfo title="Bagheera Ludo: Multiplayer Game"
             desc="A real-time multiplayer Ludo game with WebSocket-powered live gameplay. Built using FastAPI for WebSocket connections, Django for backend architecture, and Django Ninja for API endpoints. Features instant moves synchronization, online matchmaking, and smooth multiplayer experience across mobile and web platforms."
             show-year year="October, 2025" />

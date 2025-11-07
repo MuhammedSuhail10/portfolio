@@ -1,12 +1,12 @@
 <template>
-    <div class="my-[5em] px-[13em]">
-        <div class="bg-[#1e1e1e] px-[3em] py-[3em] rounded-lg shadow-lg">
+    <div class="my-[5em] lg:px-[13em] md:px-[2em] px-[1em]">
+        <div class="bg-[#1e1e1e] md:px-[3em] md:py-[3em] p-[2em] rounded-lg shadow-lg">
             <h1 class='font-[Poppins] md:text-[3em] text-[2em] '>Get in Touch</h1>
             <p class='font-[Outfit] md:text-[1.2em] text-[1em] mt-[0.5em] '>I'm excited to connect with you! Whether you
                 have a project in mind, a collaboration opportunity, or just want to say hello, feel free to reach out.
                 You can contact me via email at or connect with
                 me on social media. Let's create something amazing together!</p>
-            <div class="mt-[2em] flex gap-[1em] hover:text-[#34A0A4]">
+            <div class="mt-[2em] flex md:gap-[1em] gap-[0.5em] items-center hover:text-[#34A0A4]">
                 <svg width="2em" height="2em" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path fill="currentColor"
@@ -15,7 +15,7 @@
                 </svg>
                 <a href="tel:+919048089432" class='md:text-[1.2em] text-[1em] '>+91 9048089432</a>
             </div>
-            <div class="mt-[2em] flex gap-[1em] hover:text-[#34A0A4]">
+            <div class="mt-[2em] flex md:gap-[1em] gap-[0.5em] items-center hover:text-[#34A0A4]">
                 <svg fill="currentcolor" width="2em" height="2em" viewBox="0 0 512 512"
                     xmlns="http://www.w3.org/2000/svg">
                     <title>mail</title>
@@ -24,7 +24,7 @@
                 </svg>
                 <a href="mailto:ms10suhail@gmail.com" class='md:text-[1.2em] text-[1em] '>ms10suhail@gmail.com</a>
             </div>
-            <div class="mt-[2em] flex gap-[1em] hover:text-[#34A0A4]">
+            <div class="mt-[2em] flex md:gap-[1em] gap-[0.5em] items-center hover:text-[#34A0A4]">
                 <svg fill="currentcolor" height="2em" width="2em" version="1.1" id="Layer_1"
                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"
                     enable-background="new 0 0 512 512" xml:space="preserve">

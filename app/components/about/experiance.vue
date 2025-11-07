@@ -34,7 +34,7 @@ const platformList = platforms.map((platform, index) => ({
 </script>
 
 <template>
-    <div class="my-[2em] px-[13em]">
+    <div class="my-[2em] lg:px-[13em] md:px-[2em] px-[1em] ">
         <div class='text-center font-[Poppins] md:text-[5em] text-[3em] mb-[0]'>Experiance</div>
         <div class="text-center italic mt-[-0.8em] lg:text-[1.2em] text-[1em] lg:px-[] px-[1em] ">
             "A story still unfolding."
